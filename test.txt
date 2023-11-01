@@ -1,3 +1,9 @@
 test
 
+<<<<<<< Updated upstream
 just another test
+=======
+test numero uno
+
+Andrianov Ruslan ADB_21_08
+>>>>>>> Stashed changes
